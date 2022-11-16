@@ -61,6 +61,3 @@ Blue
 
 Filament material:
 PLA
-
-
-Notes:
